@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "attirehub-app"
-  }
+    "default": "attirehub-app",
+    "dev": "attirehub-app-dev"
+  },
+  "targets": {},
+  "etags": {}
 }
